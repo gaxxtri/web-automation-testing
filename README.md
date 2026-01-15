@@ -39,6 +39,7 @@ Four live sites were tested with no login required:
 ## Project Structure
 
 ```
+
 amazon_test.py
 zomato_test.py
 openweather_test.py
@@ -60,6 +61,7 @@ python openweather_test.py
 * Page Object Model structure
 * Run tests on GitHub Actions CI
 ```
+```
 ## Run in terminal
 pytest tests/ --html=report.html --self-contained-html
 start report.html
@@ -68,3 +70,4 @@ start report.html
 
 **Gayatri Kanagaraj**
 Data Science Student & Quality Engineering Contributor
+```
