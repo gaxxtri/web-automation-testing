@@ -47,7 +47,7 @@ screenshots/
 bug_report.md
 test_plan.md
 README.md
-
+```
 
 ## How to Run
 
@@ -59,7 +59,7 @@ python openweather_test.py
 ## Next Improvements
 * Page Object Model structure
 * Run tests on GitHub Actions CI
-
+```
 ## Run in terminal
 pytest tests/ --html=report.html --self-contained-html
 start report.html
